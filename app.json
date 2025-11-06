@@ -27,6 +27,9 @@
     },
     "extra": {
       "openrouteserviceApiKey": "eyJvcmciOiI1YjNjZTM1OTc4NTExMTAwMDFjZjYyNDgiLCJpZCI6ImJlNTdjOWNiZTE1YzRmZGNhY2ZiMmQxOTkzMDUzYzMzIiwiaCI6Im11cm11cjY0In0="
-    }
+    },
+    "plugins": [
+      "expo-font"
+    ]
   }
 }
